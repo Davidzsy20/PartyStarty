@@ -30,7 +30,7 @@ These instructions will get you a copy of the project up and running on your loc
 
 1. Fork the repo and clone it to your development environment of choice.
 
-2. To install apple(Me) dependencies, run the following command from the cloned repo's directory:
+2. To install dependencies, run the following command from the cloned repo's directory:
 
 ```npm install```
 
