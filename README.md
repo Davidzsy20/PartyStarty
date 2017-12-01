@@ -53,7 +53,7 @@ PartyStarty needs to track your profile in order to learn about you, so start by
 
 Contact us if you have any questions!
 
-## Built With
+## Built With 
 
 * [React](https://facebook.github.io/react/) - Facebook's powerful JavaScript framework
 * [Node.js](https://nodejs.org) - JavaScript runtime
